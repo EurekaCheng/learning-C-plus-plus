@@ -2,8 +2,7 @@
 using namespace std;
 
 int main(){
-    //第一个C++程序
-    /*多行注释*/
+    //my first C++ program
     cout <<"hello world!"<<endl;
     return 0;
 }
